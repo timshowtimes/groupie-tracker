@@ -1,0 +1,47 @@
+.mainBlock {
+    justify-content: center;
+    background-image: url(img.jpg);
+    display: block;
+}
+
+.ArtName {
+    font-size: 60px;
+    padding-left: 10%;
+    font-family: 'Times New Roman, serif"';
+}
+
+body {
+    margin: 0;
+}
+
+.desc {
+    background:linear-gradient( 53.2deg, rgb(73, 20, 91) 26.8%, rgba(187,19,19,0.65) 64% );
+    width: 800px;
+    height: 1045px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    border: 2px solid rgb(69, 63, 75);
+    border-radius: 15px;
+    color: white;
+}
+
+.head {
+    background: linear-gradient(3.2deg, #9d0000, #00aa9c, #769917);
+    width: 800px;
+    height: 300px;
+    display: flex;
+    margin: auto;
+    padding: auto ;
+    border: 2px solid rgb(69, 63, 75);
+    border-radius: 15px;
+    color: rgb(5, 6, 49)
+}
+
+.p{
+    font-size: 25px;
+    font-family: 'Kalam', cursive;
+    font-family: 'Yellowtail', cursive;
+    font-weight: bold;
+    background-color:rgb(33, 30, 68)
+}

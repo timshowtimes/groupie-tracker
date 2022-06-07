@@ -1,0 +1,15 @@
+p{
+    color: orange;
+}
+a{
+    font-size: 50px;
+    color: rgb(37, 35, 35);
+}
+
+body {
+    background-size: 4500px 2500px;
+    text-align: center;
+    position: relative;
+    font-family: monospace;
+    font-size: 90px;
+}
