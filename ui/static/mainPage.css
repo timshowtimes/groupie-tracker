@@ -2,12 +2,12 @@
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(img.jpg);
-    background-size:auto;
     color: rgb(255, 255, 255);
 }
 
 body {
+    background-image: url(img.jpg);
+    background-size:auto;
     margin: 0;
 }
 
